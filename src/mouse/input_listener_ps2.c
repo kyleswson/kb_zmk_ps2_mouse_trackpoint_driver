@@ -17,7 +17,7 @@ LOG_MODULE_DECLARE(zmk, CONFIG_ZMK_LOG_LEVEL);
 
 #include <zmk/endpoints.h>
 #include <zmk/keymap.h>
-#include <zmk/mouse/types.h>
+#include <zmk/pointing.h>
 #include <zmk/hid.h>
 
 #ifndef ZMK_MOUSE_HID_NUM_BUTTONS
